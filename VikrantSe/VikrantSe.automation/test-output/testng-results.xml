@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9302" started-at="2017-11-21T21:20:55Z" finished-at="2017-11-21T21:21:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9302" started-at="2017-11-21T21:20:55Z" finished-at="2017-11-21T21:21:04Z">
+      <class name="com.VikrantSe.automation.SelectDropDown">
+        <test-method status="PASS" signature="dropDownSelectionFacebook()[pri:0, instance:com.VikrantSe.automation.SelectDropDown@d8355a8]" name="dropDownSelectionFacebook" duration-ms="9256" started-at="2017-11-22T02:50:55Z" finished-at="2017-11-22T02:51:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDownSelectionFacebook -->
+      </class> <!-- com.VikrantSe.automation.SelectDropDown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
