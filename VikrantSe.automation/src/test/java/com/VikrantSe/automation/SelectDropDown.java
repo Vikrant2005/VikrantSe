@@ -24,7 +24,7 @@ public class SelectDropDown {
 		//driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		/**
 		 * For Selection of DropDown ,identify is it is list or menu 
-		 * List has Select
+		 * List has Select in HTML
 		 * Create object of Select which accept WebElement
 		 * use visibleBy Id, Value,Visible text methods
 		 */
