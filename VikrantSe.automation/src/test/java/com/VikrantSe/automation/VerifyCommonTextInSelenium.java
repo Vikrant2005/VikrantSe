@@ -35,6 +35,8 @@ public class VerifyCommonTextInSelenium {
 		{
 			actualArray.add(itr.next().getText());
 		}
+		System.out.println(actualArray);
+		System.out.println(expectedArray);
 		Assert.assertEquals(actualArray, expectedArray);
 		
 	}

@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9302" started-at="2017-11-21T21:20:55Z" finished-at="2017-11-21T21:21:04Z">
+  <suite name="Default suite" duration-ms="14168" started-at="2017-11-25T15:13:03Z" finished-at="2017-11-25T15:13:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9302" started-at="2017-11-21T21:20:55Z" finished-at="2017-11-21T21:21:04Z">
-      <class name="com.VikrantSe.automation.SelectDropDown">
-        <test-method status="PASS" signature="dropDownSelectionFacebook()[pri:0, instance:com.VikrantSe.automation.SelectDropDown@d8355a8]" name="dropDownSelectionFacebook" duration-ms="9256" started-at="2017-11-22T02:50:55Z" finished-at="2017-11-22T02:51:04Z">
+    <test name="Default test" duration-ms="14168" started-at="2017-11-25T15:13:03Z" finished-at="2017-11-25T15:13:18Z">
+      <class name="com.VikrantSe.automation.VerifyCommonTextInSelenium">
+        <test-method status="PASS" signature="coutNumberofLinksInPage()[pri:0, instance:com.VikrantSe.automation.VerifyCommonTextInSelenium@d8355a8]" name="coutNumberofLinksInPage" duration-ms="14100" started-at="2017-11-25T20:43:04Z" finished-at="2017-11-25T20:43:18Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dropDownSelectionFacebook -->
-      </class> <!-- com.VikrantSe.automation.SelectDropDown -->
+        </test-method> <!-- coutNumberofLinksInPage -->
+      </class> <!-- com.VikrantSe.automation.VerifyCommonTextInSelenium -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
