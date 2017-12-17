@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14168" started-at="2017-11-25T15:13:03Z" finished-at="2017-11-25T15:13:18Z">
+  <suite name="Default suite" duration-ms="23178" started-at="2017-11-26T10:52:12Z" finished-at="2017-11-26T10:52:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14168" started-at="2017-11-25T15:13:03Z" finished-at="2017-11-25T15:13:18Z">
-      <class name="com.VikrantSe.automation.VerifyCommonTextInSelenium">
-        <test-method status="PASS" signature="coutNumberofLinksInPage()[pri:0, instance:com.VikrantSe.automation.VerifyCommonTextInSelenium@d8355a8]" name="coutNumberofLinksInPage" duration-ms="14100" started-at="2017-11-25T20:43:04Z" finished-at="2017-11-25T20:43:18Z">
+    <test name="Default test" duration-ms="23178" started-at="2017-11-26T10:52:12Z" finished-at="2017-11-26T10:52:35Z">
+      <class name="com.VikrantSe.automation.HowToVerifyExpandedAndCollapsedObject_5">
+        <test-method status="PASS" signature="howToVerifyExpandedAndCollapsedObject_5()[pri:0, instance:com.VikrantSe.automation.HowToVerifyExpandedAndCollapsedObject_5@d8355a8]" name="howToVerifyExpandedAndCollapsedObject_5" duration-ms="23140" started-at="2017-11-26T16:22:12Z" finished-at="2017-11-26T16:22:35Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- coutNumberofLinksInPage -->
-      </class> <!-- com.VikrantSe.automation.VerifyCommonTextInSelenium -->
+        </test-method> <!-- howToVerifyExpandedAndCollapsedObject_5 -->
+      </class> <!-- com.VikrantSe.automation.HowToVerifyExpandedAndCollapsedObject_5 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

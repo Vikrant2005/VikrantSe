@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import com.gargoylesoftware.htmlunit.javascript.host.Set;
 
-public class SelectDropDown {
+public class SelectDropDown_1 {
 	
 	WebDriver driver;
 	

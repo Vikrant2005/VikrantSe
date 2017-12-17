@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class VerifyCommonTextInSelenium {
+public class VerifyCommonTextInSelenium_2 {
 	
 	WebDriver driver;	
 	
